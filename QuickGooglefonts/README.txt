@@ -11,7 +11,7 @@ HTML/JS-compactible QuickGoogleFonts plugin [2026]
 To setup this plugin, you will need to import
 the JS file into your HTML document.
 [RECOMMENDED]:
-<script defer src=""></script
+<script defer src="https://raw.githubusercontent.com/andy-and-terry/littleplugins/refs/heads/plugins-data/QuickGooglefonts/fontpicker.js"></script>
 -----------------------------------------------
 2. Usage
 To use this, you have to use the following JS
