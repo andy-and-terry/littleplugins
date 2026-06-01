@@ -1,5 +1,5 @@
 //font by ID
-async function setFont(id) {
+async function setFontID(id) {
   try {
     // 1. Fetch the mapping file and wait for the response
     const response = await fetch('font_id.json');
@@ -34,4 +34,7 @@ async function setFont(id) {
     alert("Font Error, this is nothing to do with you unless it's your internet. Error: ", err);
   }
 }
-//
+//default font
+function setFontDEFAULT() {
+  document.body.style.fontFamily = "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif";
+}
