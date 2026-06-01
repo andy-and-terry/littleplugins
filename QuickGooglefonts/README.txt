@@ -19,8 +19,6 @@ function(s).
 
 //choose font by ID
 setFontID(id)
-//choose font by name
-setFontNAME(name)
 //default font (Sans Serif)
 setFontDEFAULT()
 -----------------------------------------------
