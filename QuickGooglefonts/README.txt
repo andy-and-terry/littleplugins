@@ -24,4 +24,10 @@ setFontNAME(name)
 //default font (Sans Serif)
 setFontDEFAULT()
 -----------------------------------------------
+3. Disclaimer
+Fonts which are unable to load will be replaced
+with Sans Serif.
+
+Fonts in this plugin are from Google Fonts API.
+-----------------------------------------------
 littleplugins 2026 • MIT license
