@@ -12,7 +12,7 @@ Add the script to your `<head>` **before** any other scripts, so it runs as earl
 
 ```html
 <head>
-  <script src="https://raw.githubusercontent.com/andy-and-terry/littleplugins/refs/heads/plugins-data/antidev/antidev.js"></script>
+  <script defer src="https://raw.githubusercontent.com/andy-and-terry/littleplugins/refs/heads/plugins-data/antidev/antidev.js"></script>
   <!-- rest of your scripts -->
 </head>
 ```
