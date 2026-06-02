@@ -2,7 +2,7 @@
 async function setFontID(id) {
   try {
     // 1. Fetch the mapping file and wait for the response
-    const response = await fetch('font_id.json');
+    const response = await fetch('https://raw.githubusercontent.com/andy-and-terry/littleplugins/refs/heads/plugins-data/QuickGooglefonts/font_id.json');
     const fontList = await response.json();
 
     // 2. Find the array pair matching your ID
