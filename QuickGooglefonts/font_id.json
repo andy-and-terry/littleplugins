@@ -1,4 +1,6 @@
-["00000001", "google-sans-flex.css"]
-["00000002", "roboto.css"]
-["00000003", "nunito.css"]
-["00000004", "nunito-sans.css"]
+[
+  ["00000001", "google-sans-flex.css"],
+  ["00000002", "roboto.css"],
+  ["00000003", "nunito.css"],
+  ["00000004", "nunito-sans.css"]
+]
