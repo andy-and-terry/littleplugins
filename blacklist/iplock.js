@@ -5,7 +5,7 @@
 document.documentElement.style.visibility = "hidden";
 
 // [2] Blocklist — add IPs here
-const addresses = ["18.239.69.28", "18.239.69.31", "18.239.69.58", "18.239.69.59"]
+const addresses = ["18.239.69.28", "18.239.69.31", "18.239.69.58", "18.239.69.59", "2600:9000:20b4:3000:15:4882:fec0:93a1", "2600:9000:20b4:6200:15:4882:fec0:93a1", "2600:9000:20b4:7800:15:4882:fec0:93a1", "2600:9000:20b4:9e00:15:4882:fec0:93a1"]
 
 // [3] Wipes the page and shows the block message
 function block() {
